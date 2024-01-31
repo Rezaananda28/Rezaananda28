@@ -6,7 +6,7 @@
 
 - 🌱 I'm currently **exploring the world of programming! 🚀 Focused on mastering programming languages and sharing tutorial content across various social media platforms. Join me on this tech journey! 💻✨** 
 - 👀 Dive into **my content on TikTok! Check it out at https://www.tiktok.com/@rezndaa 🚀✨**
-- 📫 How to reach me **rahmaderasugiarto@gmail.com**
+- 📫 How to reach me **Rezaananda2810@gmail.com**
 
 - ⚡ Fun fact **i think I am easily sociable and adaptable to new environments. and I am able to work together with a team**
 
