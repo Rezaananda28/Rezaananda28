@@ -8,7 +8,7 @@
 - 👀 Dive into **my content on TikTok! Check it out at https://www.tiktok.com/@rezndaa 🚀✨**
 - 📫 How to reach me **rahmaderasugiarto@gmail.com**
 
-- ⚡ Fun fact **i think I am easily sociable and adaptable to new environments. and i am so funny :)**
+- ⚡ Fun fact **i think I am easily sociable and adaptable to new environments. and I am able to work together with a team**
 
 
 
