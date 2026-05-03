@@ -12,7 +12,6 @@
 - ⚡ Fun fact **i think I am easily sociable and adaptable to new environments. and I am able to work together with a team**
 
 
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://instagram.com/rezannda._28" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="rezannda._28" height="30" width="40" /></a>
