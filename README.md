@@ -10,7 +10,7 @@
 - 📫 How to reach me **Rezaananda2810@gmail.com**
 
 - ⚡ Fun fact **i think I am easily sociable and adaptable to new environments. and I am able to work together with a team**
-
+- 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
