@@ -4,6 +4,7 @@
 <p align="justify" style="color: white !important; text-decoration: none !important">I am a 5th-Semester student majoring in Information Systems at Universitas Muhammadiyah Sumatera Utara, with a strong focus on web development. My expertise covers both frontend development and backend solutions. On the frontend side, I have mastered various tools and frameworks to create interactive and responsive user interfaces. Meanwhile, in backend development, I am skilled at building robust and secure web solutions, ensuring optimal performance for the web applications I develop. Although I possess a broad understanding of different technologies, my primary focus remains on web development. I am committed to staying up-to-date with the latest advancements in the tech industry to deliver innovative solutions in web development.</p>
 
 
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Rezaananda28&label=Profile%20views&color=0e75b6&style=flat" alt="Rezaananda28" /> </p>
 
 - 🌱 I'm currently **exploring the world of programming! 🚀 Focused on mastering programming languages and sharing tutorial content across various social media platforms. Join me on this tech journey! 💻✨** 
